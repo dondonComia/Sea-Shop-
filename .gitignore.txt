@@ -1,5 +1,0 @@
-img/*
-key/*
-key.pub/*
-style2/*
-test/*
